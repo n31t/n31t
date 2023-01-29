@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <div id="header" align="center">
   <img src="https://64.media.tumblr.com/4f66a7beddb5dec23b22633954e7b1b6/ed73deaa867d928d-75/s540x810/066c7404bec9d3c4313580fe9ff1ddfdeaa3635a.gif" width="500"/>
 </div>
