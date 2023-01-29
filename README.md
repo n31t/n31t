@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/422/234/b45.gif" width="500"/>
+  <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/422/234/b45.gif" width="400"/>
 </div>
 <div id="header" align="center">
   <img src="https://media.tenor.com/vVAzu3lPeSoAAAAi/neco-arc-speech-bubble.gif" width="500"/>
