@@ -1,4 +1,4 @@
-
+<div id="header" align="center">
   <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/422/234/b45.gif" width="500"/>
 </div>
 still not poppin off
