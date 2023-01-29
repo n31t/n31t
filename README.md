@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/4f66a7beddb5dec23b22633954e7b1b6/ed73deaa867d928d-75/s540x810/066c7404bec9d3c4313580fe9ff1ddfdeaa3635a.gif" width="100"/>
+  <img src="https://64.media.tumblr.com/4f66a7beddb5dec23b22633954e7b1b6/ed73deaa867d928d-75/s540x810/066c7404bec9d3c4313580fe9ff1ddfdeaa3635a.gif" width="1000"/>
 </div>
 ### still not poppin off
 
