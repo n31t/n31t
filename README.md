@@ -6,15 +6,43 @@
   <img src="https://media.tenor.com/vVAzu3lPeSoAAAAi/neco-arc-speech-bubble.gif" width="500"/>
 </div>
 -->
+<div>
+<h2 align="center"> 🔎Knowledge </h2>
+</div>
+<div align = "center">
+<p align = "justify"> <br></p> <!-- TEXT WILL BE HERE (TOO LAZY) -->
+<p align = "center">
+     <a href="https://skillicons.dev">
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=git,github,java,py,cpp,css,html,go,django&perline=8"alt="My Skills"/>  <!-- Will update it time to time -->
+    </a>
+</p>
+</div>
+<br>
+<br>
+<br>
 
-## **📫 Contact**
+<div>
+<h2 align="center"> 📊 Github Stats </h2>
+</div>
+<a href="https://discord.com/users/422027850497916938">
+  <img align="right" style="filter: hue-rotate(270deg);" width="400" src="https://lanyard.kyrie25.me/api/422027850497916938?imgStyle=square&bg=0d1117&idleMessage=:Probably%20at%20KBTU%20...">
+</a>
+<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=n31t&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n31t&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+</p>
+
+
+<div>
+<h2 align="center"> 📫 Contact </h2>
+</div>
+
 <a href="https://github.com/n31t"><img align="right" width="100" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Neco-Arc_Remake.png/156px-Neco-Arc_Remake.png" /></a>
 <!--
 <a href="https://github.com/n31t"><img align="right" width="100" src="https://static.wikia.nocookie.net/typemoon/images/9/9e/Kohakuremake.png/revision/latest?cb=20210908144440" /></a>
 <a href="https://github.com/n31t"><img align="left" width="150" src="https://static.wikia.nocookie.net/typemoon/images/e/e2/Hisuiremake.png/revision/latest?cb=20210908144302" /></a>
 -->
-**Contact me on Discord or Telegram for a quick response**
-
+<br>
+Contact me on Discord or Telegram for a quick response
+<br><br>
 
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discordapp.com/users/422027850497916938)
 [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/n3itt)
