@@ -6,7 +6,10 @@
   <img src="https://media.tenor.com/vVAzu3lPeSoAAAAi/neco-arc-speech-bubble.gif" width="500"/>
 </div>
 -->
+
+<!--
 ![Preview](./images/KjMxMBW.png)
+-->
 <div>
 <h2 align="center"> 🔎Knowledge </h2>
 </div>
