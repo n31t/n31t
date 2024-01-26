@@ -25,7 +25,7 @@
 <h2 align="center"> 📊 Github Stats </h2>
 </div>
 <a href="https://discord.com/users/422027850497916938">
-  <img align="right" style="filter: hue-rotate(270deg);" width="400" src="https://lanyard.kyrie25.me/api/422027850497916938?imgStyle=square&bg=0d1117&idleMessage=:Probably%20at%20KBTU%20...">
+  <img align="right" style="filter: hue-rotate(270deg);" width="400" src="https://lanyard.kyrie25.me/api/422027850497916938?imgStyle=square&bg=0d1117&idleMessage=Drink%20tea%20with%20salt">
 </a>
 <p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=n31t&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n31t&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
