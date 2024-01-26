@@ -48,7 +48,7 @@
 <a href="https://github.com/n31t"><img align="left" width="150" src="https://static.wikia.nocookie.net/typemoon/images/e/e2/Hisuiremake.png/revision/latest?cb=20210908144302" /></a>
 -->
 <br>
-Contact me on Discord or Telegram for a quick response
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&pause=1000&color=61DAFB&random=false&width=435&lines=Contact+me+on+Discord+or+Telegram;Contact+me+on+Gmail;Nevermind" alt="Typing SVG" /></a>
 <br><br>
 
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discordapp.com/users/422027850497916938)
@@ -56,4 +56,5 @@ Contact me on Discord or Telegram for a quick response
 [![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/1neit1/)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:amiradilov202@gmail.com)
 [![](https://img.shields.io/github/followers/n31t?label=Followers&style=social)](https://github.com/n31t)
+![img](https://komarev.com/ghpvc/?username=n31t&&style=flat-square)
 
