@@ -32,9 +32,10 @@
 <a href="https://discord.com/users/422027850497916938">
   <img align="right" style="filter: hue-rotate(270deg);" width="400" src="https://lanyard.kyrie25.me/api/422027850497916938?imgStyle=square&bg=0d1117&idleMessage=Drink%20tea%20with%20salt">
 </a>
+
 <p align="left">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=n31t&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> 
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n31t&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=n31t&show_icons=true&count_private=true&theme=shadow_purple&hide_border=true&bg_color=0D1117"/> 
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n31t&show_icons=true&count_private=true&theme=shadow_purple&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
 
@@ -48,7 +49,7 @@
 <a href="https://github.com/n31t"><img align="left" width="150" src="https://static.wikia.nocookie.net/typemoon/images/e/e2/Hisuiremake.png/revision/latest?cb=20210908144302" /></a>
 -->
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&pause=1000&color=61DAFB&random=false&width=435&lines=Contact+me+on+Discord+or+Telegram;Contact+me+on+Gmail;Nevermind" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&pause=1000&color=2F6DD9&random=false&width=435&lines=Contact+me+on+Discord+or+Telegram;Contact+me+on+Gmail;Nevermind" alt="Typing SVG" /></a>
 <br><br>
 
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discordapp.com/users/422027850497916938)
