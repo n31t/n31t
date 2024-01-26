@@ -35,7 +35,7 @@
 <h2 align="center"> 📫 Contact </h2>
 </div>
 
-<a href="https://github.com/n31t"><img align="right" width="100" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Neco-Arc_Remake.png/156px-Neco-Arc_Remake.png" /></a>
+<a href="https://github.com/n31t"><img align="right" width="75" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Neco-Arc_Remake.png/156px-Neco-Arc_Remake.png" /></a>
 <!--
 <a href="https://github.com/n31t"><img align="right" width="100" src="https://static.wikia.nocookie.net/typemoon/images/9/9e/Kohakuremake.png/revision/latest?cb=20210908144440" /></a>
 <a href="https://github.com/n31t"><img align="left" width="150" src="https://static.wikia.nocookie.net/typemoon/images/e/e2/Hisuiremake.png/revision/latest?cb=20210908144302" /></a>
