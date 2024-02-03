@@ -25,6 +25,7 @@
 <br>
 <br>
 
+![Preview](./images/2222.png)
 <div>
 <h2 align="center"> 📊 Github Stats </h2>
 </div>
