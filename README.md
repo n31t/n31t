@@ -30,14 +30,18 @@
 <h2 align="center"> 📊 Github Stats </h2>
 </div>
 
+<div align="center">
 <a href="https://discord.com/users/422027850497916938">
   <img align="right" style="filter: hue-rotate(270deg);" width="400" src="https://lanyard.kyrie25.me/api/422027850497916938?imgStyle=square&bg=0d1117&idleMessage=Drink%20tea%20with%20salt">
 </a>
+<a href="https://myanimelist.net/profile/Neittt"><img src="https://malsignature.com/?/view?username=neittt&style=small"></a>
+
 
 <p align="left">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=n31t&show_icons=true&count_private=true&theme=shadow_purple&hide_border=true&bg_color=0D1117"/> 
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n31t&show_icons=true&count_private=true&theme=shadow_purple&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
+</div>
 
 ![Preview](./images/3333.png)
 <div>
