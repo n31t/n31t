@@ -31,9 +31,6 @@
 </div>
 
 <div align="center">
-<a href="https://discord.com/users/422027850497916938">
-  <img align="right" style="filter: hue-rotate(270deg);" width="400" src="https://lanyard.kyrie25.me/api/422027850497916938?imgStyle=square&bg=0d1117&idleMessage=Drink%20tea%20with%20salt">
-</a>
 <a href="https://myanimelist.net/profile/Neittt"><img src="https://malsignature.com/?/view?username=neittt&style=small"></a>
 
 
