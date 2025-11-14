@@ -11,13 +11,13 @@
 ![Preview](./images/111.png)
 
 <div>
-<h2 align="center"> 🔎Knowledge </h2>
+<h2 align="center"> 🔎 Technologies </h2>
 </div>
 <div align = "center">
 <p align = "justify"> <br></p> <!-- TEXT WILL BE HERE (TOO LAZY) -->
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=git,github,notion,py,js,ts,react,nextjs,tailwind,nodejs,express,fastapi,nestjs,go,postgres,prisma,redis,mongo,docker,rabbitmq,grafana&perline=8"alt="My Skills"/>  <!-- Will update it time to time -->
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=github,react,nextjs,tailwind,nodejs,express,fastapi,nestjs,go,postgres,prisma,redis,mongo,docker,rabbitmq,grafana&perline=8"alt="My Skills"/>  <!-- Will update it time to time -->
     </a>
 </p>
 </div>
@@ -27,17 +27,12 @@
 
 ![Preview](./images/2222.png)
 <div>
-<h2 align="center"> 📊 Github Stats </h2>
+<h2 align="center"> 📊 MAL </h2>
 </div>
 
 <div align="center">
 <a href="https://myanimelist.net/profile/Neittt"><img src="https://malsignature.com/?/view?username=neittt&style=small"></a>
 
-
-<p align="left">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=n31t&show_icons=true&count_private=true&theme=shadow_purple&hide_border=true&bg_color=0D1117"/> 
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n31t&show_icons=true&count_private=true&theme=shadow_purple&hide_border=true&bg_color=0D1117&layout=compact"/>
-</p>
 </div>
 
 ![Preview](./images/3333.png)
