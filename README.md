@@ -27,7 +27,7 @@
 
 ![Preview](./images/2222.png)
 <div>
-<h2 align="center"> 📊 MAL </h2>
+<h2 align="center"> 📊 MAL Stats</h2>
 </div>
 
 <div align="center">
