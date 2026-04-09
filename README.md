@@ -17,7 +17,7 @@
 <p align = "justify"> <br></p> <!-- TEXT WILL BE HERE (TOO LAZY) -->
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=github,gitlab,react,nextjs,tailwind,nodejs,express,fastapi,nestjs,go,postgres,prisma,redis,mongo,docker,rabbitmq,grafana&perline=8"alt="My Skills"/>  <!-- Will update it time to time -->
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=github,gitlab,nextjs,tailwind,nodejs,express,fastapi,nestjs,go,postgres,prisma,redis,mongo,docker,rabbitmq,grafana&perline=8"alt="My Skills"/>  <!-- Will update it time to time -->
     </a>
 </p>
 </div>
