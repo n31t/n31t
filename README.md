@@ -45,9 +45,6 @@
 <a href="https://github.com/n31t"><img align="right" width="100" src="https://static.wikia.nocookie.net/typemoon/images/9/9e/Kohakuremake.png/revision/latest?cb=20210908144440" /></a>
 <a href="https://github.com/n31t"><img align="left" width="150" src="https://static.wikia.nocookie.net/typemoon/images/e/e2/Hisuiremake.png/revision/latest?cb=20210908144302" /></a>
 -->
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&pause=1000&color=2F6DD9&random=false&width=435&lines=Contact+me+on+Discord+or+Telegram;Contact+me+on+Gmail;Nevermind" alt="Typing SVG" /></a>
-<br><br>
 
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discordapp.com/users/422027850497916938)
 [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/n3itt)
